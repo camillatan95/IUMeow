@@ -1,0 +1,32 @@
+body {
+  background-image: url("http://sfwallpaper.com/images/background-cat-7.jpg");
+  background-size: cover;
+<!-http://school298.spb.ru/images/100/DSC100105835.jpg// ->
+}
+
+h3{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+h2
+{
+  color:#CAC9CF;
+}
+#que
+{
+  color: white;
+  font-size: 24px;
+  margin-top: 30px;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  margin-right:25%;
+}
+
+#anwser
+{
+  text-align: justify;
+  color: #262424;
+  font-size: 18px;
+  margin-top: 30px;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  margin-right:25%;
+}
